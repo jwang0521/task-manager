@@ -12,4 +12,4 @@ This app allows users to create, view, update, and delete tasks in a simple and 
 - **Database:** MongoDB
 
 ## Live Demo
-[Click here to view the live app](https://task-manager-xyz.vercel.app](https://task-manager-jade-psi.vercel.app/)\)  
+[Click here to view the live app](https://task-manager-jade-psi.vercel.app/) 
